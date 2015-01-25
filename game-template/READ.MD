@@ -1,41 +1,41 @@
-ÎÄ¼þ¼Ð PATH ÁÐ±í
-¾íÐòÁÐºÅÎª 289C-F4FA
-C:\WAMP\WWW\COCOS2D-HTML5TEST\GAME-TEMPLATE		--cocos2d-jsÓÎÏ·Ä£°æ
-©¦  build.xml
-©¦  READ.MD										--±¾ÎÄµµ£¬ÏîÄ¿½á¹¹ÃèÊöÎÄµµ
-©¦  
-©¸©¤HelloWorld									--ÓÎÏ·Ö÷ÌåÄ¿Â¼
-    ©¦  index.html								--ÓÎÏ·ÒýÈëÒ³£¬ÊÇÓÎÏ·µÄÈë¿Ú
-    ©¦  project.json								--ÏîÄ¿ÐÅÏ¢£¬°üÀ¨ÊÇ·ñÎªdebugÄ£Ê½¡¢»­²¼µÄidµÈ
-    ©¦  
-    ©À©¤res										--×ÊÔ´¿â£¬´æ·ÅÍ¼Æ¬µÈ×ÊÔ´
-    ©¦  ©¦  favicon.ico							--ÍøÕ¾Í¼±ê
-    ©¦  ©¦  
-    ©¦  ©À©¤HD										--¸ßÇåÍ¼Æ¬×ÊÔ´¿â
-    ©¦  ©¦      009.jpeg
-    ©¦  ©¦      bullet.png
-    ©¦  ©¦      CloseNormal.png
-    ©¦  ©¦      CloseSelected.png
-    ©¦  ©¦      HelloWorld.jpg
-    ©¦  ©¦      plane.png
-    ©¦  ©¦      target.png
-    ©¦  ©¦      
-    ©¦  ©¸©¤Normal									--ÆÕÍ¨Í¼Æ¬×ÊÔ´¿â
-    ©¦          009.jpeg
-    ©¦          bullet.png
-    ©¦          CloseNormal.png
-    ©¦          CloseSelected.png
-    ©¦          HelloWorld.jpg
-    ©¦          plane.png
-    ©¦          target.png
-    ©¦          
-    ©¸©¤src										--Ô´Âë¿â
-        ©À©¤app									--´æ·ÅÓÎÏ·Âß¼­
-        ©¦      myApp.js
-        ©¦      
-        ©¸©¤lib									--Ö§³ÖÎÄ¼þ¿â£¬°ü¿âÒýÇæ¡¢ºÍÈë¿ÚjsµÈ
-                cocos2d-js-v3.2-lite.js			--cocos-2d-jsÒýÇæÎÄ¼þ
-                lib.js							--ÓÎÏ·Ðè¼ÓÔØµÄjsÁÐ±í
-                main.js							--ÓÎÏ·Èë¿ÚÎÄ¼þ£¬ÅäÖÃÁËÒ»Ð©ÓÎÏ·µÄ»ù±¾ÐÅÏ¢£¬Èç¸ß·Ö±æÂÊÓëµÍ·Ö±æÂÊµÄ¾ßÌå·¶Î§¡¢Æô¶¯³¡¾°µÈ
-                resource.js						--×ÊÔ´¼ÓÔØÎÄ¼þ£¬½«resÎÄ¼þ¼ÐÖÐµÄ×ÊÔ´¼ÓÔØ½øÀ´£¬Ê¹ÓÃÊ±Ö»ÐèÊ¹ÓÃÎÄ¼þÃû£¬³ÌÐò±ã¿É×Ô¶¯¸ù¾Ý·Ö±æÂÊÑ¡Ôñ¸ßÇåÍ¼»¹ÊÇÆÕÍ¨Í¼
+ï»¿æ–‡ä»¶å¤¹ PATH åˆ—è¡¨
+å·åºåˆ—å·ä¸º 289C-F4FA
+C:\WAMP\WWW\COCOS2D-HTML5TEST\GAME-TEMPLATE		--cocos2d-jsæ¸¸æˆæ¨¡ç‰ˆ
+â”‚  build.xml
+â”‚  READ.MD										--æœ¬æ–‡æ¡£ï¼Œé¡¹ç›®ç»“æž„æè¿°æ–‡æ¡£
+â”‚  
+â””â”€HelloWorld					 				--æ¸¸æˆä¸»ä½“ç›®å½•
+    â”‚  index.html								--æ¸¸æˆå¼•å…¥é¡µï¼Œæ˜¯æ¸¸æˆçš„å…¥å£
+    â”‚  project.json								--é¡¹ç›®ä¿¡æ¯ï¼ŒåŒ…æ‹¬æ˜¯å¦ä¸ºdebugæ¨¡å¼ã€ç”»å¸ƒçš„idç­‰
+    â”‚  
+    â”œâ”€res										--èµ„æºåº“ï¼Œå­˜æ”¾å›¾ç‰‡ç­‰èµ„æº
+    â”‚  â”‚  favicon.ico							--ç½‘ç«™å›¾æ ‡
+    â”‚  â”‚  
+    â”‚  â”œâ”€HD										--é«˜æ¸…å›¾ç‰‡èµ„æºåº“
+    â”‚  â”‚      009.jpeg
+    â”‚  â”‚      bullet.png
+    â”‚  â”‚      CloseNormal.png
+    â”‚  â”‚      CloseSelected.png
+    â”‚  â”‚      HelloWorld.jpg
+    â”‚  â”‚      plane.png
+    â”‚  â”‚      target.png
+    â”‚  â”‚      
+    â”‚  â””â”€Normal									--æ™®é€šå›¾ç‰‡èµ„æºåº“
+    â”‚          009.jpeg
+    â”‚          bullet.png
+    â”‚          CloseNormal.png
+    â”‚          CloseSelected.png
+    â”‚          HelloWorld.jpg
+    â”‚          plane.png
+    â”‚          target.png
+    â”‚          
+    â””â”€src										--æºç åº“
+        â”œâ”€app									--å­˜æ”¾æ¸¸æˆé€»è¾‘
+        â”‚      myApp.js
+        â”‚      
+        â””â”€lib									--æ”¯æŒæ–‡ä»¶åº“ï¼ŒåŒ…åº“å¼•æ“Žã€å’Œå…¥å£jsç­‰
+                cocos2d-js-v3.2-lite.js			--cocos-2d-jså¼•æ“Žæ–‡ä»¶
+                lib.js							--æ¸¸æˆéœ€åŠ è½½çš„jsåˆ—è¡¨
+                main.js							--æ¸¸æˆå…¥å£æ–‡ä»¶ï¼Œé…ç½®äº†ä¸€äº›æ¸¸æˆçš„åŸºæœ¬ä¿¡æ¯ï¼Œå¦‚é«˜åˆ†è¾¨çŽ‡ä¸Žä½Žåˆ†è¾¨çŽ‡çš„å…·ä½“èŒƒå›´ã€å¯åŠ¨åœºæ™¯ç­‰
+                resource.js						--èµ„æºåŠ è½½æ–‡ä»¶ï¼Œå°†resæ–‡ä»¶å¤¹ä¸­çš„èµ„æºåŠ è½½è¿›æ¥ï¼Œä½¿ç”¨æ—¶åªéœ€ä½¿ç”¨æ–‡ä»¶åï¼Œç¨‹åºä¾¿å¯è‡ªåŠ¨æ ¹æ®åˆ†è¾¨çŽ‡é€‰æ‹©é«˜æ¸…å›¾è¿˜æ˜¯æ™®é€šå›¾
                 
